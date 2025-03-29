@@ -1,3 +1,4 @@
+pip install yfinance pandas tabulate gspread google-auth google-auth-oauthlib google-auth-httplib2
 import yfinance as  yf
 import pandas as pd
 import gspread
